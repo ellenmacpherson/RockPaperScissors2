@@ -4,7 +4,7 @@
   opacity: 0;
   transition: opacity 2s;
   -webkit-transition: opacity 2s; /* Safari */
-    background-image: url("../images/RPS.jpg");
+    background-image: url("../images/rps.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
